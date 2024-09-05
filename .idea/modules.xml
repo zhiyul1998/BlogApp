@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlogApp.iml" filepath="$PROJECT_DIR$/.idea/BlogApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-admin/ruoyi-admin.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-admin/ruoyi-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-cms/ruoyi-cms.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-cms/ruoyi-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-common/ruoyi-common.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-common/ruoyi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-framework/ruoyi-framework.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-framework/ruoyi-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-generator/ruoyi-generator.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-generator/ruoyi-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-quartz/ruoyi-quartz.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-quartz/ruoyi-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-system/ruoyi-system.iml" filepath="$PROJECT_DIR$/ruo-yi-vue-blog-master/ruoyi-system/ruoyi-system.iml" />
+    </modules>
+  </component>
+</project>
